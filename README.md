@@ -22,10 +22,9 @@ This project is a Storybook app built using SwiftUI for iOS. It provides a platf
 ## Tech Stack
 
 - **SwiftUI:** Declarative UI framework for building iOS apps.
-- **Xcode:** IDE for macOS used for development.
-- **Swift:** Programming language for app logic and interaction.
+- **Xcode:** IDE for iOS development.
+- **Swift:** Programming language used for the development.
 - **Core Data:** Framework for data persistence.
 - **Combine:** Framework for handling asynchronous events.
 - **URLSession:** Framework for networking tasks.
 - **XCTest:** Framework for writing unit tests and UI tests.
-- **Accessibility:** Built-in support for creating accessible apps.
